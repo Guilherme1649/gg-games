@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "id": "bfd7",
+            "nome": "guilherme porto",
+            "email": "guilherme@email.com",
+            "password": "senhadificil"
+        } 
+    ]
+}
